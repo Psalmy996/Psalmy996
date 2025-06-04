@@ -14,4 +14,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Psalmy996&show_icons=true&locale=en" alt="Psalmy996" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Psalmy996&" alt="Psalmy996" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Psalmy996&show_icons=true&locale=en&layout=compact" alt="Psalmy996" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Psalmy996" alt="Psalmy996" /></a></p>
+
